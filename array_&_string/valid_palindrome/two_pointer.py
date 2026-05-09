@@ -2,7 +2,6 @@
 # bandingkan karakter dari kiri dan kanan
 # jika semua sama maka palindrome
 # jika ada yang berbeda maka bukan palindrome
-# harus pake 2 pointer (left & right)
 
 s = "A man a plan a canal Panama madam"
 word = s.replace(" ", "").lower()
