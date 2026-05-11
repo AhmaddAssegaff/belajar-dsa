@@ -8,7 +8,7 @@ target = 6
 
 for i in range(len(nums)):
     for j in range(i + 1, len(nums)):
-        jumlah = nums[i] + nums[j]
+        sum = nums[i] + nums[j]
 
-        if jumlah == target:
+        if sum == target:
             print("ketemu:", nums[i], nums[j])
