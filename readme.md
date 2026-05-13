@@ -50,3 +50,10 @@ Sebelum belajar DSA, disarankan sudah memahami dasar pemrograman seperti:
 - Greedy
 - Dynamic Programming (DP)
 - Graph Traversal (BFS & DFS)
+
+## Complexity Analysis
+- Big O Notation
+- Time Complexity
+- Space Complexity
+- Best Case & Worst Case
+- Time vs Space Tradeoff
